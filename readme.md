@@ -51,23 +51,6 @@ https://coston2-explorer.flare.network//tx/0x6f106267f40872a64261d5eb65aa0b72fe9
 
 ---
 
-## 🚀 How to Use
-
-1. Open **Remix IDE**  
-2. Create a new file → `SimpleInvoiceTracker.sol`  
-3. Paste your smart contract code (see placeholder above)  
-4. Compile using Solidity **0.8.x**  
-5. Deploy using:
-   - Remix VM  
-   - Or MetaMask (Injected Provider)  
-6. Interact using the functions:
-   - `createInvoice()`  
-   - `markInvoicePaid()`  
-   - `getInvoice()`  
-   - `getTotalInvoices()`  
-
----
-
 ## 🤝 Contributions
 
 Feel free to contribute, open issues, or suggest improvements.  
