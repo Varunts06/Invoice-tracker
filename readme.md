@@ -51,12 +51,6 @@ https://coston2-explorer.flare.network//tx/0x6f106267f40872a64261d5eb65aa0b72fe9
 
 ---
 
-## 📂 Smart Contract Code
-
-//paste your code
-
----
-
 ## 🚀 How to Use
 
 1. Open **Remix IDE**  
@@ -78,17 +72,3 @@ https://coston2-explorer.flare.network//tx/0x6f106267f40872a64261d5eb65aa0b72fe9
 
 Feel free to contribute, open issues, or suggest improvements.  
 Beginner pull requests are always welcome!
-
----
-
-## 📧 Contact
-
-If you'd like enhancements such as:
-
-- A frontend UI  
-- A Next.js dashboard  
-- Additional smart contract features  
-- Database/indexing integration  
-
-Just ask!
-
